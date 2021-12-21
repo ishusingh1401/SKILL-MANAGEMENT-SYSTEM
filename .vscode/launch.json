@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SbsiSkillManagementSystemApplication<sbsi-skillManagementSystem>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.sbsiskillManagementSystem.SbsiSkillManagementSystemApplication",
+            "projectName": "sbsi-skillManagementSystem",
+            "args": ""
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+@import "~antd/dist/antd.css";
+
+.App {
+  text-align: center;
+}
+
+.site-layout .site-layout-background {
+  background: rgb(255, 255, 255);
+}
+
+.Head {
+  margin-bottom: 0px;
+
+  position: relative;
+}
+
+.sub-logo {
+  margin: 0px;
+
+  margin-left: -8px;
+
+  position: relative;
+}
+
+.H_1 {
+  background-color: black;
+
+  position: relative;
+
+  margin: 0;
+
+  width: 100%;
+}
+
+.App-logo {
+  height: 40vmin;
+
+  pointer-events: none;
+}
